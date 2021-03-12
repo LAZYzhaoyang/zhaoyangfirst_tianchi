@@ -1,0 +1,11 @@
+torchvision==0.8.2+cu110
+numpy==1.18.5
+pytorch_toolbelt==0.4.1
+torch==1.7.1+cu110
+opencv-python==4.5.1.48
+pretrainedmodels==0.7.4
+albumentations==0.5.2
+einops==0.3.0
+tqdm==4.56.0
+Pillow==8.1.2
+segmentation_models_pytorch==0.1.3
