@@ -2,6 +2,8 @@
 
 ## 模型说明
 
+最终排名：137/4285
+
 - backnone: efficientb6
 - model: unet++
 - 0.8/0.2 训练/验证数据
