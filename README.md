@@ -10,12 +10,13 @@
 - dice-loss + Focal-loss 联合Loss
 - optimize: adamW
 - warmUpConsineScheduler
+- epoches 100
 
 超参数详见./utils/option.py
-epoches 100
 
 ## 代码运行说明
 ### 环境:
 - torch>1.6
 - segmentation_models_pytorch
 - pytorch_toolbelt
+- 更多依赖请看requirements.txt
